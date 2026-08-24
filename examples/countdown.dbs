@@ -1,0 +1,8 @@
+ধরি সংখ্যা timer = 5;
+
+দেখাও "Countdown started:";
+যতক্ষণ (timer > 0) শুরু
+    দেখাও timer;
+    timer = timer - 1;
+শেষ
+দেখাও "Boom!";

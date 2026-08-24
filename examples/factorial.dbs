@@ -1,0 +1,20 @@
+// ================================================================
+//  DogeshBangla Example 2 — factorial.db
+//  Compute factorial of a number using a WHILE loop
+//  CSE-4114 Compiler Design and Construction Sessional
+// ================================================================
+
+// Input: compute factorial of 6
+ধরি সংখ্যা n      = 6;
+ধরি সংখ্যা result = 1;
+ধরি সংখ্যা i      = 1;
+
+// Multiply i from 1 to n
+যতক্ষণ (i <= n) শুরু
+    result = result * i;
+    i = i + 1;
+শেষ
+
+// Display result:  6! = 720
+দেখাও result;
+

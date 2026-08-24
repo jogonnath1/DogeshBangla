@@ -1,0 +1,8 @@
+ধরি সংখ্যা age = 17;
+
+যদি (age >= 18) শুরু
+    দেখাও "You can vote!";
+শেষ
+নাহলে শুরু
+    দেখাও "You are too young to vote.";
+শেষ

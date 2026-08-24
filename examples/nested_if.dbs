@@ -1,0 +1,13 @@
+ধরি সংখ্যা number = -5;
+
+যদি (number > 0) শুরু
+    দেখাও "Number is Positive";
+শেষ
+নাহলে শুরু
+    যদি (number < 0) শুরু
+        দেখাও "Number is Negative";
+    শেষ
+    নাহলে শুরু
+        দেখাও "Number is Zero";
+    শেষ
+শেষ

@@ -1,0 +1,5 @@
+// Undeclared Variable Error Test
+// This should FAIL with: Undeclared variable 'ghost'
+ধরি সংখ্যা x = 10;
+x = x + ghost;
+দেখাও x;

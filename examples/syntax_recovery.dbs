@@ -1,0 +1,7 @@
+// Syntax Error Recovery Test (Part 2 Feature)
+// Line 3 has a MISSING '=' sign — should catch it and keep parsing
+ধরি সংখ্যা a  10;
+
+// The compiler RECOVERS and still parses the rest:
+ধরি সংখ্যা b = 20;
+দেখাও b;

@@ -1,0 +1,35 @@
+// ================================================================
+//  DogeshBangla Example 3 — fibonacci.db
+//  Print first 10 Fibonacci numbers using WHILE loop + IF-ELSE
+//  CSE-4114 Compiler Design and Construction Sessional
+// ================================================================
+
+ধরি সংখ্যা a     = 0;
+ধরি সংখ্যা b     = 1;
+ধরি সংখ্যা count = 0;
+ধরি সংখ্যা temp  = 0;
+ধরি সংখ্যা limit = 10;
+
+// Print first 10 Fibonacci numbers
+যতক্ষণ (count < limit) শুরু
+    দেখাও a;
+
+    temp = a + b;
+    a = b;
+    b = temp;
+
+    count = count + 1;
+শেষ
+
+// Check if the final value is even or odd
+// rem must be দশমিক since division always produces float in DogeshBangla
+ধরি দশমিক rem = 0;
+rem = a - (a / 2) * 2;
+
+যদি (rem == 0) শুরু
+    দেখাও 1;
+শেষ
+নাহলে শুরু
+    দেখাও 0;
+শেষ
+

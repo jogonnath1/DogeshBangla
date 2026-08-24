@@ -1,0 +1,6 @@
+ধরি দশমিক radius = 5.5;
+ধরি দশমিক pi = 3.1416;
+ধরি দশমিক area = pi * radius * radius;
+
+দেখাও "Area of the circle:";
+দেখাও area;

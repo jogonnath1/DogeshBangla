@@ -1,0 +1,5 @@
+// Type Mismatch Error Test
+// This should FAIL with: cannot assign দশমিক value to সংখ্যা variable
+ধরি সংখ্যা money = 100;
+money = 50.5;
+দেখাও money;

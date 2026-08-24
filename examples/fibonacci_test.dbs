@@ -1,0 +1,13 @@
+ধরি সংখ্যা a = 0;
+ধরি সংখ্যা b = 1;
+ধরি সংখ্যা temp = 0;
+ধরি সংখ্যা count = 0;
+
+দেখাও "First 8 Fibonacci numbers:";
+যতক্ষণ (count < 8) শুরু
+    দেখাও a;
+    temp = a + b;
+    a = b;
+    b = temp;
+    count = count + 1;
+শেষ

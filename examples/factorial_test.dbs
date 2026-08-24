@@ -1,0 +1,11 @@
+ধরি সংখ্যা target = 5;
+ধরি সংখ্যা result = 1;
+ধরি সংখ্যা count = 1;
+
+যতক্ষণ (count <= target) শুরু
+    result = result * count;
+    count = count + 1;
+শেষ
+
+দেখাও "Factorial of 5 is:";
+দেখাও result;

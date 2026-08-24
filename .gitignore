@@ -1,0 +1,13 @@
+﻿# Build directories and executables
+build/
+*.exe
+*.o
+*.obj
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local member split staging
+Part1_Split/
+*.zip
