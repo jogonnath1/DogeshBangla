@@ -4,6 +4,9 @@
 > A Bangla-inspired programming language compiler built in C++, targeting Python.  
 > Invented, designed, and implemented as a semester project.
 
+**Course Teacher:** Alian Ahmed Ferdous  
+**Designation:** Adjunct Lecturer  
+
 ---
 
 ## What is DogeshBangla?

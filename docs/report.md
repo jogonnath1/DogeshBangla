@@ -3,6 +3,10 @@
 
 **Team Project | Compiler + Report + Presentation**
 
+**Submitted To:**  
+**Alian Ahmed Ferdous**  
+Adjunct Lecturer  
+
 ---
 
 ## Section 1: The Pitch — Why DogeshBangla Matters

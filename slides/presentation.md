@@ -22,6 +22,9 @@
 │     in the language they think in."                            │
 │                                                                │
 │    CSE-4114 | Compiler Design and Construction Sessional       │
+│                                                                │
+│    Submitted To:                                               │
+│    Alian Ahmed Ferdous (Adjunct Lecturer)                      │
 └────────────────────────────────────────────────────────────────┘
 ```
 
